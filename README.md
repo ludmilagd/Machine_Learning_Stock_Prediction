@@ -18,11 +18,7 @@ https://g8-stock-prediction.herokuapp.com/
 Development Team
 
 Christine Brown
-
-Doris Meiers
-
+Doris Meiere
 Ludmila Garcia
-
 Victoria Jeshurun
-
 Lizzie Stenhaug
