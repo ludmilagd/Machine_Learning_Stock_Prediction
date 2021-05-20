@@ -8,10 +8,10 @@ Overview:
 This applciation, built in Dash JavaScript, will provide the user three different Machine Learning Models to predict Stock Market Value for Apple. 
 It also present a chart to compare historical Stock price for companies in different Industry Sectors. 
 
-Technologies:Python Pandas & Dash Plotly 
+Technologies:Herouku, Python, Pandas & Dash Plotly 
 Machine Learning Models: Moving Average, LSTM (Long Short Term Model), Decision Tree and Linear Regression. 
 
-Link to Dash application:
+Link to Dash application deployed to the web through Heroku (Cloud Application Plataform) 
 
 https://g8-stock-prediction.herokuapp.com/
 
