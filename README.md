@@ -1,4 +1,4 @@
-# Stock-Market-Prediction
+# Machine Learning for Stock Market Prediction
 
 Topic: Analyzing Apple Stock Data to Predict Gain/Loss leveraging Machine Learning Models
 
