@@ -1,14 +1,15 @@
 # Stock-Market-Prediction
 
-Topic: Analyzing Apple Stock Data to Predict Gain/Loss
+Topic: Analyzing Apple Stock Data to Predict Gain/Loss leveraging Machine Learning Models
 
 Data Source: Yahoo Finance
 
 Overview: 
-Using Yahoo Finance data for Apple to train Machine Learning models to determine whether a stock purchase at a given time is a good decision or not. 
-Perform correlation analysis. 
-Utilize Python Pandas & Dash Plotly 
-Use models such as Moving Average, Long Short Term Model, and Decision Tree and Linear Regression. 
+This applciation, built in Dash JavaScript, will provide the user three different Machine Learning Models to predict Stock Market Value for Apple. 
+It also present a chart to compare historical Stock price for companies in different Industry Sectors. 
+
+Technologies:Python Pandas & Dash Plotly 
+Machine Learning Models: Moving Average, LSTM (Long Short Term Model), Decision Tree and Linear Regression. 
 
 Link to Dash application:
 
