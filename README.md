@@ -14,7 +14,16 @@ Since it is also useful to compare the history of the low and high Price of the 
 
 Process
 
-In order to achieve the goal, the team created the Python coding for each of the selected Models. Yahoo Finance was used as data source to gather needed historical stock prices to generate the model. 
+In order to achieve the goal, the team created the Python coding for each of the selected Models using Jypoter Notebook. Yahoo Finance was used as data source
+
+Data loading
+Yahoo finance is a reliable and free source of information for stock prices and offeres 5 years of history. Python has a module that wraps the Yahoo Finance API that can be called relativly easy and provides information up to the previous day. This project incorporates this python module to train and validate the models, and also to gather information to later be ploted in the application.
+
+
+Training the Model
+
+
+Model validation 
 
 The Machine learning models were processed in jupiter notebook utilizing Python, Pnadas and Matplotlib to create trend charts. Results of the different models were saaved in Github to later be used by the application.
 The app would get information directly from Yahoo finance website through a Python command. This porcess runs every time the application is open making sure that information is updated up to date.
@@ -25,7 +34,7 @@ The four models selected are: Moving Average, LSTM (Long Short Term Model), Deci
 In this applciation, built in Dash JavaScript, will provide the user three different Machine Learning Models to predict Stock Market Value for Apple. 
 It also present a chart to compare historical Stock price for companies in different Industry Sectors. 
 
-Technologies:Herouku, Python, Matplotlib, Pandas & Dash Plotly 
+Technologies:Herouku, Python (SciPy package), Matplotlib, Pandas & Dash Plotly 
 Machine Learning Models: Moving Average, LSTM (Long Short Term Model), Decision Tree and Linear Regression. 
 
 Link to Dash application deployed to the web through Heroku (Cloud Application Plataform) 
