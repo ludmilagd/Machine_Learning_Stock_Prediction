@@ -6,9 +6,15 @@ Data Source: Yahoo Finance
 
 Overview: 
 
-Stock market prediction have been very popular for a long time. As the worlds changes constantly and every event have an impact in the global economy, the need of better ways to predict the future value of stocks is always present.
+Stock market prediction can be a very profitable busines, reason why it has been on the eye of stock inverstors for a long time. World's economy is constantly fluctuaring as a complex mix of trends and unpredicted events. The need for better ways to predict the future value of stocks is always present.
 
-Machine Learning has proved to be a good predictor for stock prices. However, there are several models available and the present project intetent to compare 4 of these models to predict Apple Stock Prices. 
+Machine Learning has proved to be a good predictor for stock prices. However, there are several Machine Learning Models and techniques that can be used in the financial field. It is the intend of this project to compare some of the most popular models aviabale to predict Apple Stock Prices. 
+
+Since it is also useful to compare the history of the low and high Price of the targeted company to other industries, a chart of historical prices for a few companies is included in this applications. 
+
+Process
+
+In order to achieve the goal, the team created the Python coding for each of the selected Models. Yahoo Finance was used as data source to gather needed historical stock prices to generate the model. 
 
 The Machine learning models were processed in jupiter notebook utilizing Python, Pnadas and Matplotlib to create trend charts. Results of the different models were saaved in Github to later be used by the application.
 The app would get information directly from Yahoo finance website through a Python command. This porcess runs every time the application is open making sure that information is updated up to date.
